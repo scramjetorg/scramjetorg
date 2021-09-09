@@ -1,20 +1,9 @@
 # Scramjet.org - Serverless data computing
 Welcome to the Scramjet.org GitHub organisation page!
 
-We are a startup company and a team of IT enthusiasts that is building several products for data processing and stream processing.
+We're a deep tech startup and a team of IT enthusiasts building products meant for serverless stream processing, data pipelines and other workflows.
 
 Our current GitHub repositories here are related to two main products:
-
-# Scramjet Framework
-<img src="./images/framework.svg" width="33%" alt="Scramjet Framework Logo" />
-&nbsp;
-
-Fast, simple, functional reactive stream programming framework written on top of node.js object streams. The code is written by chaining functions that transform the streamed data, including well known map, filter and reduce and fully compatible with ES7 async/await. Thanks to it some built in optimizations scramjet is much faster and much much simpler than similar frameworks when using asynchronous operations.
-
-Main repository for Scramjet framework is [scramjetorg/scramjet](https://github.com/scramjetorg/scramjet). 
-
-You can also find Scramjet Framework package on NPM [npmjs.com/package/scramjet](https://www.npmjs.com/package/scramjet)
-
 
 # Scramjet Transform Hub
 
@@ -27,6 +16,16 @@ Main repository for Scramjet Transform Hub is [scramjetorg/transform-hub](scramj
 We have also repository with simple intoductory Readme and code samples here [scramjetorg/scramjet-cloud-docs](https://github.com/scramjetorg/scramjet-cloud-docs)
 
 You can also find Scramjet Transform Hub packages on NPM: [npmjs.com/package/@scramjet/sth](https://www.npmjs.com/package/@scramjet/sth) and [npmjs.com/package/@scramjet/cli](https://www.npmjs.com/package/@scramjet/cli)
+
+# Scramjet Framework
+<img src="./images/framework.svg" width="33%" alt="Scramjet Framework Logo" />
+&nbsp;
+
+Fast, simple, functional reactive stream programming framework written on top of node.js object streams. The code is written by chaining functions that transform the streamed data, including well known map, filter and reduce and fully compatible with ES7 async/await. Thanks to it some built in optimizations scramjet is much faster and much much simpler than similar frameworks when using asynchronous operations.
+
+Main repository for Scramjet framework is [scramjetorg/scramjet](https://github.com/scramjetorg/scramjet). 
+
+You can also find Scramjet Framework package on NPM [npmjs.com/package/scramjet](https://www.npmjs.com/package/scramjet)
 
 # More about us
 - Our Website: [Scramjet.org](https://scramjet.org)
